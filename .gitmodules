@@ -1,0 +1,3 @@
+[submodule "themes/flux"]
+	path = themes/flux
+	url = https://github.com/aimadahsan/hugo-theme-flux.git
