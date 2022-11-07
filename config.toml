@@ -1,5 +1,5 @@
 # Base configuration
-baseURL = 'http://aimadahsan.github.io/blog'
+baseURL = 'https://aimadahsan.github.io/blog'
 languageCode = 'en-us'
 title = '~/blog'
 
